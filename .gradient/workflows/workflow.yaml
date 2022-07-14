@@ -1,3 +1,7 @@
+defaults:
+  resources:
+    instance-type: C3
+
 on:
   github:
     branches:
